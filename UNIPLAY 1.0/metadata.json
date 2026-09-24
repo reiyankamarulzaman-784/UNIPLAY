@@ -1,0 +1,6 @@
+{
+  "name": "UNIPLAY - Learn it. Play it. Master it.",
+  "description": "AI-powered university learning platform that turns lecture PDFs into interactive educational videos, quizzes, games, and mastery progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
