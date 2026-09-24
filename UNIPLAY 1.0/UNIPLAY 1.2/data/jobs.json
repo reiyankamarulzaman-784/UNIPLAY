@@ -1,0 +1,21 @@
+{
+  "job-1790268876601-e2ew14": {
+    "jobId": "job-1790268876601-e2ew14",
+    "status": "creating_quiz",
+    "stage": "creating_quiz",
+    "progress": 82,
+    "message": "Building grounded quiz...",
+    "subMessage": "Testing each question against lecture knowledge to prevent hallucinations...",
+    "logs": [
+      "[2026-09-24T16:54:36.601Z] Job initialized for \"Neurobiology: Synaptic Transmission\"",
+      "[2026-09-24T16:54:37.003Z] Validating PDF format and integrity (0.0 MB)",
+      "[2026-09-24T16:54:37.504Z] Extracted document sections",
+      "[2026-09-24T16:54:37.505Z] Synthesizing central knowledge base",
+      "[2026-09-24T16:54:44.777Z] Generating dynamic storyboard for Neurobiology: Synaptic Transmission",
+      "[2026-09-24T16:54:51.317Z] Synchronized 3 visual scenes",
+      "[2026-09-24T16:54:51.719Z] Validating multi-difficulty quiz questions"
+    ],
+    "createdAt": 1790268876601,
+    "updatedAt": 1790268891719
+  }
+}
